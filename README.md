@@ -1,2 +1,2 @@
-# Histrory
-Histrory
+# History
+History
